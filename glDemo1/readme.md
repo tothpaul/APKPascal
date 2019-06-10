@@ -7,8 +7,8 @@ the code is a simple 3D rotating OpenGL cube, it's not complex from the code poi
 1. this code define some globals array of data that needs to be initialized.
 2. the GLRenderer class implements an inner Interface of GLSurfaceView
 3. `GLU.gluPerspective` is a static class method
-5. `GL10` contains constant values (there values could have been imported by the code, but actualy they are local constants)
+5. `GL10` contains constant values (those values could have been imported by the code, but actualy they are local constants)
 
-an invisible part of the job was on tha DEX format, because this application produce much more code that the first one and lead to miss alignment, wrong referenced and a lot of other nasty things. dexdump helped me a lot for that.
+an invisible part of the job was on the DEX format, because this application produce much more code that the first one and lead to miss alignment, wrong referenced and a lot of other nasty things. dexdump helped me a lot for that.
 
 ![demo1](screenshot.png)
