@@ -20,7 +20,7 @@ all the code (not public for now...not sure if it will be public) is mine, excep
 
 This repository presents the first steps in this project
 
-1. [demo1](demo1) is the first "Hello World" application I've made.
+1. [Demo1](Demo1) is the first "Hello World" application I've made.
 2. [glDemo1](glDemo1) is the second one.
 
 Paul TOTH
